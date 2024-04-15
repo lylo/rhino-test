@@ -7,6 +7,7 @@ A basic Rails 7 app to test [Rhino Editor](https://github.com/KonnorRogers/rhino
 ```bash
 bundle install
 bin/rails db:create db:migrate
+yarn install
 ```
 
 ## Running the app
